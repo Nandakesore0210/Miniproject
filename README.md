@@ -56,15 +56,30 @@ Fitrack is a modern AI‑assisted personal finance management platform built to 
 
 #### **Output 1 – Dashboard Overview**
 
-![Dashboard Screenshot](https://github.com/yourusername/fitrack/assets/dashboard)
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3c112ebc-0efd-45e4-bda7-d046f8001fef" />
+
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ea0dd2a8-f082-48d2-bdf8-87b0fd32bb13" />
+
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/3a171ba0-4d87-4e67-b5ee-4707e5794c68" />
+
 
 #### **Output 2 – Receipt Scanner Extraction**
 
-![Receipt Scanner Screenshot](https://github.com/yourusername/fitrack/assets/receipt)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ce75af4-8ff3-4c12-94fc-c614b3a84dae" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5b287fd4-f3a2-42d0-a99d-f1921e28fce7" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-27 231009" src="https://github.com/user-attachments/assets/7c1aaa4f-8c91-4992-8cf4-971f38a3983d" />
+
 
 #### **Output 3 – Monthly Financial Insights Email**
 
-![Email Screenshot](https://github.com/yourusername/fitrack/assets/email)
+<img width="1641" height="702" alt="Screenshot 2025-11-27 231120" src="https://github.com/user-attachments/assets/fa36ddac-2fb0-4ba1-b1a8-49c4ffc4d270" />
+
+<img width="1637" height="704" alt="Screenshot 2025-11-27 231222" src="https://github.com/user-attachments/assets/07a543b7-10de-4c02-8b43-ada8dbccd764" />
+
+<img width="1653" height="737" alt="image" src="https://github.com/user-attachments/assets/7dc6b84e-2970-41b9-ab2b-352ed3351486" />
+
 
 *Accuracy: Dynamic based on system performance and OCR correctness.*
 
@@ -75,10 +90,3 @@ Fitrack is a modern AI‑assisted personal finance management platform built to 
 Fitrack significantly enhances personal financial awareness by automating expense tracking and providing AI‑driven guidance. Users gain clarity over spending patterns through charts, receive timely budget alerts, and develop healthier financial habits through monthly insight reports. The platform serves as a strong foundation for future financial automation systems and contributes towards smarter, more responsible money management.
 
 ---
-
-## **Articles Published / References**
-
-*(Optional — section kept for format consistency as requested)*
-
-1. —
-2. —
