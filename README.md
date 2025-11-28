@@ -46,13 +46,12 @@ Fitrack is a modern AI‑assisted personal finance management platform built to 
 
 (Embed your architecture diagram here)
 
-![System Architecture](https://github.com/yourusername/fitrack/assets/sample-diagram)
+[![System Architecture](https://github.com/yourusername/fitrack/assets/sample-diagram)](https://github.com/gowriganeshns/Miniproject.git)
 
 ---
 
 ## **Output**
 
-(Add your screenshots later)
 
 #### **Output 1 – Dashboard Overview**
 
